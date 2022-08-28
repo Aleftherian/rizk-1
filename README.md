@@ -1,0 +1,2 @@
+# rizk
+Una shell inversa.
