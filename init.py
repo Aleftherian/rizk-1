@@ -15,6 +15,8 @@ try:
 	import sys
 	import requests
 	import nmap
+	weijewf()
+
 except Exception as e:
 	print(f"{bcolors.HEADER}.-----------------.{bcolors.ENDC}")
 	print(f"{bcolors.HEADER}|{bcolors.WARNING}     riskapp     {bcolors.HEADER}|{bcolors.ENDC}")
